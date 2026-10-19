@@ -14,6 +14,11 @@ Portfólio de sites e jogos de navegador, desenvolvido por Pedro Tiago com apoio
 
 Pedidos e reservas são simulações. Não são apresentados como projetos contratados por clientes nem como resultados comerciais medidos.
 
+## Repositórios independentes
+
+- [Casa Âmbar](https://github.com/sabedoriameditativa-ops/casa-ambar-demo)
+- [Corrida Neon](https://github.com/sabedoriameditativa-ops/corrida-neon)
+
 ## Executar localmente
 
 Com Python 3 instalado, na pasta deste repositório execute:
